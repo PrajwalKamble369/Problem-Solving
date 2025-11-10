@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "department": "Sales",
+      "is_active": true,
+      "skills": ["communication", "negotiation", "CRM"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 27,
+      "department": "Marketing",
+      "is_active": false,
+      "skills": ["SEO", "content creation", "analytics"]
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "age": 35,
+      "department": "Engineering",
+      "is_active": true,
+      "skills": ["Python", "Machine Learning", "SQL"]
+    }
+  ]
+}
