@@ -22,3 +22,15 @@
 9) Python Program to Convert Celsius to Farenheit.
 
 10) Program to check if a Number is Positive, Negative or 0.
+
+11) Python Program to check if a number is even or odd.
+
+12) Program to check leap year.
+
+13) Find largest amongs three number.
+
+14) Python Program to check prime number.
+
+15) Print all Prime number in an range.
+
+16) Pythom Program to find the factorial of a number.
